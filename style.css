@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{background: #f5f8f5;}
+.hauteur {
+    border: 15px solid rgb(107, 101, 93);
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    background-color: rgb(107, 101, 93);
+    text-align: center;
+    font-family: 'Bebas Neue';
+    font-size: 20px;
+   
+}
+.hauteur img{
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -1700px;
+    margin-bottom: -110px;
+}
+
+body img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 400px;
+    
+}
+
+
+
+.defile img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 600px;
+}
+
+.ministere img{
+    margin-left: 50px;
+
+
+}
+
+.menu{width: 139px; float: right; padding: 0 100px 0 100px; border-left: #8C8484 1px solid; font-size: 18px;font-family:"Oswald" ;}
+.menu{width: 139px; float: right; padding: 0 100px 0 100px; border-bottom: #8C8484 1px solid; font-size: 18px;font-family:"Oswald" ;}
+.menu ul{margin: 0; padding: 10px 0 10px 15px;}
+.menu li{padding-top: 2px; list-style-type: circle; text-decoration: none; }
+.menu_title{font-size: 22px; font-weight: bold; color: rgb(134, 113, 87);}
+
+.content h2{
+    color: #8C8484;
+    font-family:'Oswald';
+    border-top: #8C8484 1px solid;
+}
+.content p{
+    font-family: 'Bebas Neue';
+    font-size: 18px
+
+}
+
+    footer{
+        background-color: #1a1a1a;
+        margin-top: 200px;
+        margin-right: -10px;
+        margin-left: -10px;
+        padding: 25px 25px;
+        color:#828282;
+      }
+      footer .colonnes{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+      }
+
+.logoaT img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 650px;
+}
+
+.femmearmee img{
+    margin-left: 350px
+
+}
+
+.LogoM img {
+    height: 402px ;
+    width: 300px ;
+    margin-left: 750px;
+
+}
+
+.LogoA img {
+    height: 236px ;
+    width: 400px ;
+    margin-left: 750px;
+
+}
